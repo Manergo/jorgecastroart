@@ -1,0 +1,12 @@
+{
+    "minimumVersion": 1,
+    "packages": [
+        {
+            "name": "MnrgModPack",
+            "title": "Server de Manergo",
+            "version": "20100223",
+            "location": "manergoserver.json",
+            "priority": 1
+        }        
+    ]
+}
