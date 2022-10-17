@@ -2,10 +2,10 @@
   "minimumVersion" : 1,
   "packages" : [
     {
-      "title" : "Servidor de Manergo - ModPack 1.0",
+      "title" : "ModMania 1.0",
       "name" : "manergoserver",
-      "version" : "MnrgModpack1.0",
-      "location" : "manergoserver.json",
+      "version" : "1.0",
+      "location" : "modmania.json",
       "priority" : 0
     }
   ]
