@@ -1,0 +1,12 @@
+{
+  "minimumVersion" : 1,
+  "packages" : [
+    {
+      "title" : "ModMania 1.0",
+      "name" : "manergoserver",
+      "version" : "1.0",
+      "location" : "modmania.json",
+      "priority" : 0
+    }
+  ]
+}
